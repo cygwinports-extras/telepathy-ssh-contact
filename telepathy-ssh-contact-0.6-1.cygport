@@ -1,0 +1,7 @@
+ORIG_PN="ssh-contact"
+
+
+HOMEPAGE="http://telepathy.freedesktop.org/"
+SRC_URI="http://telepathy.freedesktop.org/releases/${ORIG_PN}/${ORIG_PN}-${PV}.tar.gz"
+
+CYGCONF_ARGS="--libexecdir=/usr/lib/telepathy"

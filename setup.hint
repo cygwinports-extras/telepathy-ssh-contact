@@ -1,0 +1,4 @@
+category: Net
+requires: libglib2.0_0 libtelepathy-glib0
+sdesc: "Telepathy SSH contact sharing support module"
+ldesc: "Telepathy SSH contact sharing support module"
